@@ -1,0 +1,3 @@
+build/builderr.log
+build/objs_*
+build/*.bin
